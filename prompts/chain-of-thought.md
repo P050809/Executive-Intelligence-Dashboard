@@ -1,11 +1,18 @@
-Phase 1: Deep Research (Perplexity Pro): Prompts Used - [[
+Phase 1: Deep Research (Perplexity Pro): 
+Prompts Used - [[
 🏢 The Scenario: "Project Argus"
+
 The Client: Nexus Ventures (A fictional Tier-1 Venture Capital Firm).
+
 The Request: "We are considering a $15M Series A investment into the 'Agentic Supply Chain' sector. Specifically, we need to know if startups focusing on 'Autonomous Freight Auditing' have a real 'moat' (defensibility) or if they will be crushed by giants like SAP and Oracle in the next 18 months."
+
 The Goal of this Project: Provide a data-backed "Investment Memo" that proves AI can be used to synthesize massive amounts of contradictory market data into a clear "Invest" or "Pass" recommendation. 
+
 Act as a Senior Investment Analyst. Perform a deep-dive competitive analysis on the Autonomous Freight Auditing & Payment (AFAP) AI niche. 
+
 Identify the top 5 emerging startups (e.g., Loop, Keelvar, etc.) and compare them against legacy ERP systems like SAP.
-Specifically, find: 1) Their core AI differentiation (e.g., LLM vs. Predictive),
+Specifically, find: 
+1) Their core AI differentiation (e.g., LLM vs. Predictive),
 2) Recent funding rounds,
 3) 3-5 specific customer complaints about legacy systems in this space,
 4) Current regulatory hurdles in AI-driven logistics. Output the result as a detailed Markdown table.]]
@@ -13,10 +20,12 @@ Specifically, find: 1) Their core AI differentiation (e.g., LLM vs. Predictive),
 
 
 Phase 2: Strategic Synthesis (Gemini 3.1 Pro) Prompts Used : 
+
 1 [[You are the Principal at Nexus Ventures. Based on the attached research, write a 5-page Investment Memo.
 Include a SWOT Analysis, a 'Risk Matrix' for AI hallucination in financial auditing, and a final 'Go/No-Go' recommendation.
 Your tone must be clinical, skeptical, and focused on ROI. Highlight the 'Blue Ocean' opportunity where these startups can win against legacy giants.
 ]]
+
 2 [[ Cross-reference the competitor list with the market gaps. Which gap is the most expensive for a business to ignore?
 ]]
 
